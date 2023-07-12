@@ -3,6 +3,7 @@
 
 Args:
 * ```./input```: directory path to the folder containing the text files.
+
 Returns: 
 * ```output.txt```: text file containing the calculated word-frequency list. 
 

@@ -9,7 +9,7 @@ Returns:
 
 To run: 
 ```
-python3 src/run.sh input > output/output.txt
+src/run.sh input 
 ```
 
 PROJECT 2 OF LING473 (08/16/2021) 

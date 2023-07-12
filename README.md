@@ -6,7 +6,7 @@ Args:
 
 To run: 
 ```
-python3 ./main.py data > output
+python3 src/main.py input > output/output.txt
 ```
 
 PROJECT 2 OF LING473 (08/16/2021) 
